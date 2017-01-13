@@ -1,4 +1,4 @@
-Testing app to show how to consume the API of Holidays :)
+Testing app to show how to consume the API of Movies :)
 
 * bundle install
 * rake db:migrate
